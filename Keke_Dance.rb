@@ -1,0 +1,10 @@
+def "Keke, do you love me? dance."
+puts "Stand outside the front car door of your passenger seat, facing the car interior with the door open."
+puts "It is optional to have a driver who slowly drives the car while you are dancing facing the interior of the front passenger seat."
+puts "If following the previous step then either move your lower body side-to-side with feet crossing over each other or the normal movement with feet parting and coming close together without crossover"
+puts "During the dance, or when the song starts playing, listen to when the song says, keke do you love me?, then form your hands in the shape of a heart while to you are moving side-to-side and facing the car."
+puts "Next, put a hand of your choice out in a fist with your straightened in front of you and move your arm in a 360 degree cirlce clockwise and once completed, then counterclockise after the previous dance move."
+puts "With same form of the previous step, stick your pointer finger up and then move that finger from left to right twice."
+puts "Put hands on chest then out, then in."
+puts "Make up your own moves while moving alongside your car in whatever manner you choose for the rest of the song or until you decide to stop."
+end
