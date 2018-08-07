@@ -5,6 +5,8 @@ def say_hello(your_name, my_name = "Ella")
   puts "Hello, #{your_name}! I'm #{my_name}."
 end
 
+say_hello("becca")
+
 def about_me
   puts "My name is Ella Ratarac."
   puts "My middle name is Bleu, which is blue in French, even though I'm not even French"
